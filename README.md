@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zil.SG
 
 You can use the [editor on GitHub](https://github.com/lai3d/zil.sg/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
